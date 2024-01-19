@@ -11,11 +11,7 @@ labels:
 summary: "Key Club is a community service oriented club from my high school."
 ---
 
-<div class="text-center p-4">
-  <img width="200px" src="../img/micromouse/micromouse-robot.png" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-robot-2.jpg" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
-</div>
+
 
 Key Club is a club in Kailua High School that focused on community service. Every month, members were required to take part in one of their many projects dedicated to helping the school and community. Some of these that I was a part in were the beach trash cleanup, cleaning my school's zen garden, and the Kiwanis family dance. At these events, many students from my key club came to help make the local community a better place. 
 

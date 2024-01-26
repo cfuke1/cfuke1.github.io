@@ -3,12 +3,13 @@ layout: essay
 type: essay
 title: "Reflection on Smart Questions"
 # All dates must be YYYY-MM-DD format!
-date: 2015-09-08
+date: 2024-01-25
 published: true
 labels:
   - Questions
   - Answers
   - StackOverflow
+  - StackExchange
 ---
 
 ## What makes a Smart Question?

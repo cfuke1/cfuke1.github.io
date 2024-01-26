@@ -22,56 +22,13 @@ Stack Overflow, a question and answer site for programmers, is a great resource 
 In the following example, we examine the components of a decent question. In this case, the asker is trying to figure out a way to get the date of the previous month in Python.
 
 ```
-Q: python date of the previous month
+What are Null Pointer Exceptions (java.lang.NullPointerException) and what causes them?
 
-I am trying to get the date of the previous month with python. Here is what i've tried:
-
-str( time.strftime('%Y') ) + str( int(time.strftime('%m'))-1 )
-
-However, this way is bad for 2 reasons: First it returns 20122 for the February of 2012 (instead of 201202) 
-and secondly it will return 0 instead of 12 on January.
-
-I have solved this trouble in bash with:
-
-echo $(date -d"3 month ago" "+%G%m%d")
-
-I think that if bash has a built-in way for this purpose, then python, much more equipped, should provide something 
-better than forcing writing one's own script to achieve this goal. Of course i could do something like:
-
-if int(time.strftime('%m')) == 1:
-    return '12'
-else:
-    if int(time.strftime('%m')) < 10:
-        return '0'+str(time.strftime('%m')-1)
-    else:
-        return str(time.strftime('%m') -1)
-        
-I have not tested this code and i don't want to use it anyway (unless I can't find any other way:/)
-
-Thanks for your help!
+What methods/tools can be used to determine the cause so that you stop the exception from causing the program to terminate prematurely?
 ```
 
 While the heading of his question could be better, it does convey what he’s trying to figure out. Usually something as brief as “python date of previous month” is what other users would enter in as search terms on Google, making it easily found. Another good thing about the question is that it’s not just a question. The asker shows what he or she has done and that he or she has put in some effort to answer the question. And while it may not be as important as the question itself, the asker shows courtesy, which does increase the chance of getting an answer.
 
-```
-A: datetime and the datetime.timedelta classes are your friend.
-
-1. find today
-2. use that to find the first day of this month.
-3. use timedelta to backup a single day, to the last day of the previous month.
-4. print the YYYYMM string you're looking for.
-
-Like this:
-
- >>> import datetime
- >>> today = datetime.date.today()
- >>> first = datetime.date(day=1, month=today.month, year=today.year)
- >>> lastMonth = first - datetime.timedelta(days=1)
- >>> print lastMonth.strftime("%Y%m")
- 201202
- >>>
-
-```
  
 The asker received six possible answers, and he or she was successful in inciting discussion from multiple users. The answers themselves were clear and were devoid of the rumored sarcasm and hostility of “hackers.” Since I myself have referenced this page and found it useful, I can confidently say that it is a good question.
 
@@ -80,14 +37,13 @@ The asker received six possible answers, and he or she was successful in incitin
 While there are decent questions that benefit everyone, there are those one can ask to create an entirely different effect. In the following example, a user asks how he would, in short, create a desktop application with Facebook.
 
 ```
-Q: Facebook Desktop Notifier
+I currently have a Sum Filter Formula that looks like the following:
 
-I am a beginner programmer that have never used anything other than what's included in a language.
+=IFERROR(SUM(FILTER({$U$5:U;$W$5:W;$Y$5:Y;$AA$5:AA;$AC$5:AC;$AE$5:AE;$AG$5:AG;$AI$5:AI;$AK$5:AK;$AM$5:AM;$AO$5:AO;$AQ$5:AQ;$AS$5:AS;$AU$5:AU;$AW$5:AW;$AY$5:AY;$BA$5:BA;$BC$5:BC;$BE$5:BE;$BG$5:BG},{$M$5:M;$M$5:M;$M$5:M;$M$5:M;$M$5:M;$M$5:M;$M$5:M;$M$5:M;$M$5:M;$M$5:M;$M$5:M;$M$5:M;$M$5:M;$M$5:M;$M$5:M;$M$5:M;$M$5:M;$M$5:M;$M$5:M;$M$5:M}=true,{$T$5:T;$V$5:V;$X$5:X;$Z$5:Z;$AB$5:AB;$AD$5:AD;$AF$5:AF;$AH$5:AH;$AJ$5:AJ;$AL$5:AL;$AN$5:AN;$AP$5:AP;$AR$5:AR;$AT$5:AT;$AV$5:AV;$AX$5:AX;$AZ$5:AZ;$BB$5:BB;$BD$5:BD;$BF$5:BF}=B5)),0)
 
-I am trying to create a desktop application that notifies me anytime I get an update onfacebook. 
-How should go about doing this? Thanks in advance.
+Very gross I know, but I wanted to know if there was an easier way of writing this as it is very annoying to replicate for future uses and change when required.
 
-edit Sorry I was not clear. Is there any way to make a DESKTOP application with facebook?
+Cheers in advance
 ```
 
 A simple “yes” would have answered the question, but we know that’s not the sort of answer he or she is looking for. Fortunately, someone kindly responded with a link to Facebook’s developer website. The asker should have done more research on his or her potential project. Then further down the road, he or she could have asked more specific and detailed questions that wouldn’t require a thousand-paged response for a sufficient answer.

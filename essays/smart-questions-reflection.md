@@ -33,7 +33,7 @@ Very gross I know, but I wanted to know if there was an easier way of writing th
 Cheers in advance
 ```
 
-A simple “yes” would have answered the question, but we know that’s not the sort of answer he or she is looking for. Fortunately, someone kindly responded with a link to Facebook’s developer website. The asker should have done more research on his or her potential project. Then further down the road, he or she could have asked more specific and detailed questions that wouldn’t require a thousand-paged response for a sufficient answer.
+A question asked not the smart way is this. It violates many of the principles that Eric Raymond emphasizes. The question is hard to answer because it is very hard to look at and decipher. It is effectively just a big block of code. The text below also is very vague in what the writer is asking for. This violates many of Eric Raymond’s principles of a good question, some of which are being sent in a clear, standard format, making it easy to reply to, and being precise and informative about the problem. Aesthetically, the question is hard to look at, so people are also less inclined to give answers to it. This shows, as the question is downvoted on StackExchange, and has no answers. 
 
 ## Conclusion
 

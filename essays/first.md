@@ -1,9 +1,9 @@
 ---
 layout: essay
 type: essay
-title: "Reflection on Smart Questions"
+title: "Applying Ethics to Computing"
 # All dates must be YYYY-MM-DD format!
-date: 2015-09-08
+date: 2022-07-16
 published: true
 labels:
   - Questions

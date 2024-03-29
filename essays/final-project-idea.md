@@ -9,7 +9,9 @@ labels:
 ---
 
 Title: Calendar Tracker
+<br><br>
 Author: Colby Fuke
+<br><br>
 
 A problem nowadays with students is that they are always busy with events and can never find time to plan things with each other. Many students need to constantly check with each other’s schedules to hang with friends, and a lot of events that students are unaware of can pop up and interfere with plans. This is why I would like to make a calendar tracker app. This would be an app that allows students to display their schedules to friends online. It would allow multiple students to view each others’ schedules at once, and automatically find times where everyone has free time. 
 <br><br>

@@ -9,7 +9,7 @@ labels:
 ---
 
 Title: Calendar Tracker
-<br><br>
+<br>
 Author: Colby Fuke
 <br><br>
 

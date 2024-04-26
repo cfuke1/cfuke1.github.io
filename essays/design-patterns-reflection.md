@@ -77,3 +77,5 @@ Collections were another design pattern I used in my code. In this code, I creat
 ## Conclusion
 
 Design patterns are crucial for ensuring that projects stay working, especially in a group setting. Without them, code would become very inefficient and much harder to understand. I would recommend that everyone with an interest in coding to invest some time in learning some design patterns to make sure they write efficient and clean code. 
+
+ChatGPT aided in writing this essay.

@@ -6,7 +6,7 @@ title: "AI Reflection"
 date: 2024-05-07
 published: true
 labels:
-  - Software Engineering
+  - Artificial Intelligence
   - Learning
 ---
 
@@ -98,7 +98,7 @@ Quality assurance of code was something that I would do myself after asking Chat
 
   14. Other uses in ICS 314 not listed above
 
-In ICS 314, some other ways I used AI were in 
+In ICS 314, some other ways I used AI were in trying to find the best ways to do agile projec tmagnagement.
 
 ### III. Impact on Learning and Understanding:
 
@@ -110,11 +110,11 @@ In my opinion, AI has the potential to massively improve multiple aspects of our
 
 ### V. Challenges and Opportunities:
 
-I think that one issue with how ChatGPT works is it will always try to convince the user that the answer it gives is correct, even if it is wrong. There have been many times where ChatGPT was wrong about how its code worked, but always attempted to say it was correct. 
+I think that one issue with how ChatGPT works is it will always try to convince the user that the answer it gives is correct, even if it is wrong. There have been many times where ChatGPT was wrong about how its code worked, but always attempted to say it was correct. This is detrimental
 
 ### VI. Comparative Analysis:
 
-	Traditional teaching methods still have merit when compared to AI-enhanced approaches. There are a wide variety of ways that students learn at their best, and traditional teaching methods are one of them. I have some friends who can best utilize traditional teaching methods and thrive in them. However, I would say that I am not one of those people. For me, the AI-enhanced approach that ICS 314 took allowed me to better learn because it let me quickly adapt my knowledge when necessary. If I ever had a question to ask, I would always be able to use ChatGPT to find an answer that was most likely correct. Where traditional lectures I would slowly lose attention as time passed in the class, engaging with ChatGPT was enough to keep me focused on what I was learning. This kept me engaged in the content and especially helped me in getting past roadblocks in my knowledge. If I was confused about something in a traditional class, asking the professor would take away valuable class time from everyone. Also, while waiting for the professor to accept questions, they could have covered multiple topics that built off of what I was stuck on, leaving me multiple steps behind. Just asking the question to AI might not give a completely accurate answer, but it would at least allow me to have a foundation for the rest of the information being presented. As far as practical skill development goes, using AI in and of itself is a practical skill that should be developed, as I believe it will play more and more of a major role in our lives as it gets smarter and smarter. Something that could be utilized more from AI engines that I don’t see as much is asking it to give practice problems in order to develop certain skills. These would need to be verified to prove their accuracy, but I think that using this could allow teachers and professors to consistently create new problems for students to work on as well as develop personalized problems for students having trouble with certain topics. In my opinion, more teachers should experiment with AI-enhanced teaching, as I think it holds a lot of potential to aid in student learning. I think that in future software engineering education, AI could make the jobs of teachers and professors much easier. Something that I think could be experimented with in the future could be using AI to generate lesson plans, questions, and study materials for students to use. 
+	Traditional teaching methods still have merit when compared to AI-enhanced approaches. There are a wide variety of ways that students learn at their best, and traditional teaching methods are one of them. I have some friends who can best utilize traditional teaching methods and thrive in them. However, I would say that I am not one of those people. For me, the AI-enhanced approach that ICS 314 took allowed me to better learn because it let me quickly adapt my knowledge when necessary. If I ever had a question to ask, I would always be able to use ChatGPT to find an answer that was most likely correct. Where traditional lectures I would slowly lose attention as time passed in the class, engaging with ChatGPT was enough to keep me focused on what I was learning. This kept me engaged in the content and especially helped me in getting past roadblocks in my knowledge. I
 
 ### VII. Future Considerations:
 

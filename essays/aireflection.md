@@ -110,7 +110,7 @@ In my opinion, AI has the potential to massively improve multiple aspects of our
 
 ### V. Challenges and Opportunities:
 
-I think that one issue with how ChatGPT works is it will always try to convince the user that the answer it gives is correct, even if it is wrong. There have been many times where ChatGPT was wrong about how its code worked, but always attempted to say it was correct. This is detrimental
+I think that one issue with how ChatGPT works is it will always try to convince the user that the answer it gives is correct, even if it is wrong. There have been many times where ChatGPT was wrong about how its code worked, but always attempted to say it was correct. This is detrimental because it can mislead and trick users into believing that incorrect code is right. However, one big oppurtunity that I believe can be taken with AI is customizable student learning. Since AI is adaptive, it can learn to find the most effective teaching methods for different types of learners. Students naturally have differing personalities, habits, and learning styles, so having an AI that can analyze that information and create lessons around it would be greatly beneficial for teaching. AI could also compile student data, and make it readily available for the teacher, so they can also benefit from understanding their students' learning styles. 
 
 ### VI. Comparative Analysis:
 

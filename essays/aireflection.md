@@ -18,15 +18,15 @@ In this class, I have only made use of ChatGPT, so I’m only familiar with how 
 ### II. Personal Experience with AI:
 I have used AI in class this semester in the following areas:
 
-  1. Experience WODs e.g. E18
+1. Experience WODs e.g. E18
 
 I have used ChatGPT in many Experience WODs, but especially in E31. This was specifically because I was not comfortable with using the style.css file. ChatGPT was able to make the files for me, but also taught me how to use them, and provided me with examples to further explain how they are used. For E31 I gave ChatGPT specific questions, with one being “How do I change my text color and font?” I have used ChatGPT in other Experience WODs as well, especially when I would get stuck on something that I wasn’t able to understand myself. I think that this allowed me to be more efficient in learning coding concepts that would’ve originally taken me much longer to figure out myself. 
 
-  2. In-class Practice WODs
+2. In-class Practice WODs
 
 For the in-class Practice WODs, the early ones made me realize that I take a long time to write code, and that I’m not as fast as I would need to be in order to finish both the Practice WODs and WODs on time. For that reason, I would attempt to do the Practice WODs with less of a reliance on ChatGPT to help me write code in order to practice for the real WODs. If they became too difficult for me to do on my own, I would then use ChatGPT as sparingly as possible, in order to try and bolster my own knowledge. 
 
-  3. In-class WODs
+3. In-class WODs
 
 For the in-class WODs, I took a completely different approach towards using ChatGPT. Unfortunately, I was never able to code as fast as I would have liked in order to keep up with the In-class WODs, so I ended up heavily relying on ChatGPT to code for me. I also realized that some of the later WODs we were doing were completely out of my level of skill. These were the Meteor 1 and Meteor 2 WODs. For these, I was focused more on giving ChatGPT specific prompts for what I wanted. By giving ChatGPT these specific prompts, I was able to slowly make web pages that resembled what I wanted. Something that I found out about ChatGPT was that giving it broad prompts to do would almost always result in something that wasn’t close at all. 
 

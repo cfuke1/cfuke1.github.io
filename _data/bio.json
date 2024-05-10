@@ -21,11 +21,11 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "Java", "Javascript" ]
+      "keywords": [ "C", "Java", "Javascript", "HTML" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS" ]
+      "keywords": [ "MacOS", "Windows" ]
     }
   ],
   "education": [

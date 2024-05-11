@@ -11,7 +11,7 @@ labels:
 ---
 
 <div style="text-align: center;">
-  <img class="img-fluid" src="../img/clock.jpg" style="max-width: 50%;" />
+  <img class="img-fluid" src="../img/clock.jpg" style="max-width: 100%;" />
 </div>
 
 ### Introduction

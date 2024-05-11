@@ -6,9 +6,10 @@ title: "Applying Ethics to Computing and my Beliefs"
 date: 2022-07-16
 published: true
 labels:
-  - Questions
-  - Answers
-  - StackOverflow
+  - Ethics/Morality
+  - Kantianism
+  - Act Utilitarianism
+  - Social Contract Theory
 ---
 
  <img class="img-fluid" src="../img/ethics.jpg">

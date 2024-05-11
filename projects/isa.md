@@ -4,7 +4,7 @@ type: project
 image: img/image_2024-01-18_220113685.png
 title: "International Students Association"
 date: 2023-08-20
-published: true
+published: false
 labels:
   - Promote cultural exchange
   - Support International Students

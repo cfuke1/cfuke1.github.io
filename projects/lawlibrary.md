@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/lawlibrary.png
+image: img/lawlibrarylogo.jpg
 title: "Law Library"
 date: 2024-04-21
 published: true

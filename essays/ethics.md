@@ -13,7 +13,7 @@ labels:
 ---
 
 <div style="text-align: center;">
-  <img class="img-fluid" src="../img/ethics.jpg" style="max-width: 50%;" />
+  <img class="img-fluid" src="../img/ethics.jpg" style="max-width: 25%;" />
 </div>
 
 ### Introduction

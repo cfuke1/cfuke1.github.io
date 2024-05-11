@@ -12,7 +12,9 @@ labels:
   - Social Contract Theory
 ---
 
- <img class="img-fluid" src="../img/ethics.jpg">
+<div style="text-align: center;">
+  <img class="img-fluid" src="../img/ethics.jpg" style="max-width: 50%;" />
+</div>
 
 ### Introduction
 

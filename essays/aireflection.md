@@ -7,7 +7,7 @@ date: 2024-05-07
 published: true
 labels:
   - Artificial Intelligence
-  - Learning
+  - Customizable Learning
 ---
 
 

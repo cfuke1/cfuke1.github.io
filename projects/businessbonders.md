@@ -15,7 +15,7 @@ summary: "The UH Manoa Law Library is responsible for providing law and prelaw s
 ---
 
 <div style="text-align: center;">
-  <img class="img-fluid" src="../img/businessbonderspic.jpg" style="max-width: 80%;" />
+  <img class="img-fluid" src="../img/businessbonderspic.png" style="max-width: 80%;" />
 </div>
 
 The Business Bonders project was my final group project for ICS 314. It is a webapp created using Meteor, React Bootstrap, JavaScript, and HTML. It aims to connect companies and students with each other, and help employers find the right candidates they need for their job positions. Likewise, it also helps students find the companies that most closely align with their skills and visions. Finding jobs out of college is difficult, and we attempted to make a tool that would give students oppurtunities for success. In order to install the project, you first need to install Meteor. Then, visit the Business Bonder github page, and  download the zip file provided. Next, download a copy of the repo to your local computer. After that, open command prompt and cd into the business_bonder/app directory and install the meteor libraries with meteor npm install. Lastly, run the system with meteor npm run start, and the webapp will run in your browser on http://localhost:3000. This project completed done over the course of a month, and accomplished with three other members. 

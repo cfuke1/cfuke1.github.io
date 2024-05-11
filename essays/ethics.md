@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Applying Ethics to Computing"
+title: "Applying Ethics to Computing and my Beliefs"
 # All dates must be YYYY-MM-DD format!
 date: 2022-07-16
 published: true
@@ -10,8 +10,6 @@ labels:
   - Answers
   - StackOverflow
 ---
-
-### Applying Ethical Frameworks to my Beliefs
 
 ### Introduction
 

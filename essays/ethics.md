@@ -11,6 +11,8 @@ labels:
   - StackOverflow
 ---
 
+ <img class="img-fluid" src="../img/ethics.jpg">
+
 ### Introduction
 
 Computers in the modern day pose major ethical questions, as some boundaries that we have in real life are broken down when separated by a screen. This creates a murky ethicality around what is right and wrong when one is online. In this essay, I would like to take Kantianism, Act Utilitarianism, and Social Contract Theory, which are three prominent ethical theories, and evaluate them in a digital space. I would also like to provide examples of each and my own personal opinions on how they hold up in the modern world. 

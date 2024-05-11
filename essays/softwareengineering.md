@@ -11,6 +11,10 @@ labels:
   - Agile Project Management
 ---
 
+### Introduction
+
+Software Engineering in the modern day requires many skills and a strong coding background. However, I believe that beyond those things, there are primary two skills that are responsible for creating a strong foundation for software engineers. These are proper Coding Standards and effective Agile Project Management. With these two skills in one’s belt, they can be effective and efficient in any project that they take part of. In this essay, I would like to break down these two skills, and explain how I developed them during my time taking ICS 314. 
+
 ### Coding Standards
 
 In my opinion, Coding Standards are one of the most important things to have in mind when typing code. Coding standards are a fundamental practice that benefit software development by enhancing consistency, readability, and security. Code consistency is ensuring that code is written in predictable and understandable patterns. Keeping code consistent is especially helpful for when different types of objects are needed, as consistent code can be replicated and changed easily. Throughout my time in ICS 314, my code was primarily kept consistent by ESLint. ESLint is a code analysis tool for JavaScript that scans code and points out errors and inconsistencies. These are a few examples of ESLint’s feedback. 
@@ -33,13 +37,20 @@ The first of these points is an incremental approach towards writing and pushing
 
 The second of these points is Effective Collaboration and Communication. This may seem very obvious, but I feel that it can get overlooked if a team is not organized. If not accounted for, members of a group can become confused as to what needs to be worked on and what has been fixed. Throughout the ICS 314 final project, my group used a GitHub project board to keep track of our progress and which members were working on certain things. 
 
+ <img class="img-fluid" src="../img/eslint.png">
+
 This ensured that everyone was able to make progress on their own time, and not have to ask to make sure what was finished and what was not. It also allowed us to double up on things that were difficult to program, so individual members wouldn’t need to take them on by themselves. It was important for us to constantly be pushing our finished commits to the branches, and then to main. This is so no member would ever end up with work that was behind in commits, and their effort wouldn’t go to waste. I would recommend project boards for any type of group work in software engineering, because they expedite the organization of people very effectively. However, effective collaboration and communication goes far beyond just a project board. Over the course of the final project, my group also used Discord to communicate with each other, and inform each other of what we were doing. Communication is key when working with other people, and always letting your group members know what branches have been modified is important. If multiple branches get merged into main and break it, fixing those bugs would become a nightmare with so much modified code. Proper communication and collaboration also is good for ensuring that all members can contribute to the project in meaningful ways. Finding out where individual members’ skills lie in the context of your project allows the group to work as fast as possible together by best utilizing each member. 
 
 The last pillar of agile project management is a clear vision of where the project is going and what its final boundaries and functionalities are. Very often, projects can become bloated with features and functionality, which can end up with failed promises and disappointment with the final product. A clear vision of how the final product should function should be created at the beginning of the project’s development, and if time allows, more functionality should be added after the base product has been completed. This ensures that what was originally planned for the product will be delivered on. One way of creating a clear vision for a final product are mockup pages. This is an example of one that my group and I used for our ICS 314 final project. 
 
  <img class="img-fluid" src="../img/eslint.png">
- 
+
 Images like these were made for every single page that our web app would need. This was important, and gave us a template to work off of, as opposed to completely working in the dark while coding our project. While working, I would constantly refer back to the mockup pages we created to make sure that I was sticking to the original project’s vision. Although having a clear vision for the product at the beginning of a project is important, I still think that improving upon that vision during the project is fine, as long as it is done responsibly. Consumer and business demands can change with time, and if new features need to be added, it is okay for the team to change their final vision. This just needs to be done responsibly and incrementally, as to not bloat the product with unnecessary features, and allow the team to keep up with the increased work. Most importantly, the team should deliver on what has originally been promised first, and then focus on adding extra functionality later. 
+
+### Conclusion
+
+Overall, these two skills primarily bolster proper cooperation. Using ESLint to document code not only helps the original editor, but also helps everyone else on the team understand their code. Cooperating with consumers by writing safe and secure code ensures that data breaches won’t cause problems in the future. Incremental approaches and proper communication all reinforce the design team’s cooperation, allowing the project to be done faster. Being able to work with others is of paramount importance in a software engineering setting, whether it be with a team, with consumers, or with business executives, proper cooperation will make the result of a successful project much more likely. I would recommend all software engineers, new or old, to try and develop these skills on their next endeavor, as I think they could go a long way in improving the efficiency and enjoyment of software engineering as a whole. 
+
 
 
 

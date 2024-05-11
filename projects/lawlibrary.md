@@ -14,7 +14,7 @@ summary: "The UH Manoa Law Library is responsible for providing law and prelaw s
 ---
 
 <div style="text-align: center;">
-  <img class="img-fluid" src="../img/lawlibrary.jpg" style="max-width: 25%;" />
+  <img class="img-fluid" src="../img/lawlibrary.jpg" style="max-width: 80%;" />
 </div>
 
 The UH Manoa Law Library was founded by C.J. Richardson and Dean David R. Hood in September 1973. The library has information ranging from all types of Law, such as local Hawaiian and island laws to international law and law in overseas countries. It was created with law students in mind, and attempts to give them all the resources they need to be successful in their major. It serves as a treasure trove of information for these students, and always attempts to accommodate their needs with technology that can be borrowed and quiet areas for them to focus. It is also open 24/7, so law students have the freedom to come in on their own time to study and read. 

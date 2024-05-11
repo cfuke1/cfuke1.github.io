@@ -13,7 +13,7 @@ summary: "The Young Men's Christian Association is an organization with the goal
 ---
 
 <div style="text-align: center;">
-  <img class="img-fluid" src="../img/ymcapic.jpg" style="max-width: 80%;" />
+  <img class="img-fluid" src="../img/ymcapic.jpg" style="max-width: 200%;" />
 </div>
 
 The YMCA is an organization that gives back to the local community in a lot of ways. They have a gym, pool, classes, and offer winter and summer programs for children. They encourage their members to stay fit and active, and provide childcare to parents who need it. It was originally founded in 1844 in the United Kingdom, with the original goal to provide a supportive community for young men. Nowadays, the YMCA will acommodate anyone, and their goal is to serve their communities with caring, honesty, respect, and responsibility. 
